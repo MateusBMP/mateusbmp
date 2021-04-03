@@ -1,4 +1,4 @@
-# Hi there, I'm [Mateus Pereira](https://mateusbmp.com.br/) 👋
+# Hi there, I'm [Mateus Pereira](https://mateusbmp.com.br/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ### Nice to meet you! ![](https://komarev.com/ghpvc/?username=mateusbmp&label=viewers)
 
@@ -8,7 +8,7 @@
 [![Twitter](https://img.shields.io/badge/-@_arcmond-1DA1F2?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/_arcmond)](https://twitter.com/_arcmond "Twitter") 
 [![E-mail](https://img.shields.io/badge/-mbmp@ic.ufal.br-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mbmp@ic.ufal.br?subject=Olá,%20Mateus!%20)](mailto:mbmp@ic.ufal.br?subject=Olá,%20Mateus!%20 "E-mail")
 
-I'm Mateus Pereira, sofware developer from Brazil, always learning something new while looking for time to be distracted by games.
+I'm Mateus Pereira, sofware developer from Brazil, always learning something new while looking for time to be distracted by games. 
 
 ### 💙 A little bit about me
 
