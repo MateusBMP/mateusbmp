@@ -22,22 +22,22 @@ I'm Mateus Pereira, sofware developer from Brazil, always learning something new
 ### ⭐️ Major Open Source Projects
 
 <a href="https://github.com/mateusbmp/pointtradingsystem">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mateusbmp&repo=PointTradingSystem&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mateusbmp&repo=PointTradingSystem&theme=tokyonight&show_icons=true&hide_border=true" />
 </a>
 <a href="https://github.com/mateusbmp/recomendador-de-vinhos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mateusbmp&repo=recomendador-de-vinhos&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mateusbmp&repo=recomendador-de-vinhos&theme=tokyonight&show_icons=true&hide_border=true" />
 </a>
 <a href="https://github.com/mateusbmp/categorizacao-de-textos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mateusbmp&repo=categorizacao-de-textos&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mateusbmp&repo=categorizacao-de-textos&theme=tokyonight&show_icons=true&hide_border=true" />
 </a>
 <a href="https://github.com/ufal-ic/gestic-frontend-angular">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ufal-ic&repo=gestic-frontend-angular&theme=tokyonight&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ufal-ic&repo=gestic-frontend-angular&theme=tokyonight&show_owner=true&show_icons=true&hide_border=true" />
 </a>
 
 ### :octocat: GitHub Statistics
 
 <a href="https://github.com/mateusbmp/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mateusbmp&show_icons=true&theme=tokyonight&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mateusbmp&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
 </a>
 <a href="https://github.com/mateusbmp/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusbmp&exclude_repo=event-time,eventer,gull-admin,IntroducaoAoGitHub&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight&count_private=true" />
