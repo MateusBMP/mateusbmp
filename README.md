@@ -24,11 +24,11 @@ I'm Mateus Pereira, sofware developer from Brazil, always learning something new
 <a href="https://github.com/mateusbmp/pointtradingsystem">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mateusbmp&repo=PointTradingSystem" />
 </a>
-<a href="https://github.com/mateusbmp/categorizacao-de-textos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mateusbmp&repo=categorizacao-de-textos" />
-</a>
 <a href="https://github.com/mateusbmp/recomendador-de-vinhos">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mateusbmp&repo=recomendador-de-vinhos" />
+</a>
+<a href="https://github.com/mateusbmp/categorizacao-de-textos">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mateusbmp&repo=categorizacao-de-textos" />
 </a>
 <a href="https://github.com/ufal-ic/gestic-frontend-angular">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ufal-ic&repo=gestic-frontend-angular&show_owner=true" />
