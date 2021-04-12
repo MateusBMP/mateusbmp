@@ -4,7 +4,7 @@
 
 ### 😌 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-mateusbmp-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/mateusbmp/)](https://www.linkedin.com/in/antonioizaias/ "LinkedIn") 
+[![LinkedIn](https://img.shields.io/badge/-mateusbmp-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/mateusbmp/)](https://www.linkedin.com/in/mateusbmp/ "LinkedIn") 
 [![Twitter](https://img.shields.io/badge/-@_arcmond-1DA1F2?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/_arcmond)](https://twitter.com/_arcmond "Twitter") 
 [![E-mail](https://img.shields.io/badge/-mbmp@ic.ufal.br-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mbmp@ic.ufal.br?subject=Olá,%20Mateus!%20)](mailto:mbmp@ic.ufal.br?subject=Olá,%20Mateus!%20 "E-mail")
 
