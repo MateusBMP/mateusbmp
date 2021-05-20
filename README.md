@@ -15,7 +15,6 @@ I'm Mateus Pereira, sofware developer from Brazil, always learning something new
 - 🔭 I’m currently working in [Unique Ingressos](https://github.com/unique-ingressos) and [Zerotime](https://github.com/zerotime-healthtec)
 - 📖 I’m currently studing Computer Science in [UFAL](https://ic.ufal.br/)
 - 🌱 I'm currently learning Software Engineering and DevOps
-- 👯 I'm starting the open source academic organization [IC UFAL](https://github.com/ufal-ic)
 - 💬 Ask me about Design Patterns, Refactoring and REST API
 - ⚡️ I love configuring and monitoring linux servers in my spare time
 
@@ -29,9 +28,6 @@ I'm Mateus Pereira, sofware developer from Brazil, always learning something new
 </a>
 <a href="https://github.com/mateusbmp/categorizacao-de-textos">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mateusbmp&repo=categorizacao-de-textos&theme=tokyonight&show_icons=true&hide_border=true" />
-</a>
-<a href="https://github.com/ufal-ic/gestic-frontend-angular">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ufal-ic&repo=gestic-frontend-angular&theme=tokyonight&show_owner=true&show_icons=true&hide_border=true" />
 </a>
 
 ### :octocat: GitHub Statistics
