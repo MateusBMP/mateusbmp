@@ -1,6 +1,6 @@
 # Hi there, I'm [Mateus Pereira](https://mateusbmp.com.br/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### Nice to meet you! ![](https://komarev.com/ghpvc/?username=mateusbmp&label=profile+viewers&style=flat-square)
+### Nice to meet you!
 
 ### 😌 Connect with me
 
