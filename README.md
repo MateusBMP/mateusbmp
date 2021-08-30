@@ -12,7 +12,7 @@ I'm Mateus Pereira, sofware developer from Brazil, always learning something new
 
 ### 💙 A little bit about me
 
-- 🔭 I’m currently working in [Unique Ingressos](https://github.com/unique-ingressos)
+- 🔭 I’m currently working in [Unique Ingressos](https://github.com/unique-ingressos) and [Gespag Pagamentos](https://github.com/gespag-brasil/)
 - 📖 I’m currently studing Computer Science in [UFAL](https://ic.ufal.br/)
 - 🌱 I'm currently learning Software Engineering and DevOps
 - 💬 Ask me about Design Patterns, Refactoring and REST API
