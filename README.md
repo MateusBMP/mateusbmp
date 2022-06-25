@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-mateusbmp-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&color=black&link=https://www.linkedin.com/in/mateusbmp/)](https://www.linkedin.com/in/mateusbmp/ "LinkedIn") 
 [![Twitter](https://img.shields.io/badge/-@_arcmond-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white&color=black&link=https://twitter.com/_arcmond)](https://twitter.com/_arcmond "Twitter") 
-[![E-mail](https://img.shields.io/badge/-mbmp@ic.ufal.br-c14438?style=for-the-badge&logo=Gmail&logoColor=white&color=black&link=mailto:mbmp@ic.ufal.br?subject=Olá,%20Mateus!%20)](mailto:mbmp@ic.ufal.br?subject=Olá,%20Mateus!%20 "E-mail")
+[![E-mail](https://img.shields.io/badge/-mbmp@ic.ufal.br-c14438?style=for-the-badge&logo=Gmail&logoColor=white&color=black&link=mailto:mbmp@ic.ufal.br?subject=Olá,%20Mateus!%20)](mailto:mbmp@ic.ufal.br?subject=Hello,%20Mateus!%20 "E-mail")
 
 I'm Mateus Pereira, sofware developer from Brazil, always learning something new while looking for time to be distracted by games. 
 
