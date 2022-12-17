@@ -30,6 +30,12 @@ I'm Mateus Pereira, sofware developer from Brazil, always learning something new
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mateusbmp&repo=categorizacao-de-textos&theme=tokyonight&show_icons=true&hide_border=true" />
 </a>
 
+### 🚀 Open Source Projects I Love
+
+<a href="https://github.com/T-Troll/alienfx-tools">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=T-Troll&repo=alienfx-tools&theme=tokyonight&show_icons=true&hide_border=true" />
+</a>
+
 ### :octocat: GitHub Statistics
 
 <a href="https://github.com/mateusbmp/">
