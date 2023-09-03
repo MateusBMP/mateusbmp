@@ -29,6 +29,9 @@ I'm Mateus Pereira, sofware developer from Brazil, always learning something new
 <a href="https://github.com/mateusbmp/categorizacao-de-textos">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mateusbmp&repo=categorizacao-de-textos&theme=tokyonight&show_icons=true&hide_border=true" />
 </a>
+<a href="https://github.com/mateusbmp/auto-domain">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mateusbmp&repo=auto-domain&theme=tokyonight&show_icons=true&hide_border=true" />
+</a>
 
 ### 🚀 Open Source Projects I Love
 
