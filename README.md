@@ -12,7 +12,6 @@ I'm Mateus Pereira, sofware developer from Brazil, always learning something new
 
 ### 💙 A little bit about me
 
-- 🔭 I’m currently working in [BetaBit](https://betabit.com.br/)
 - 📖 I’m currently studing Computer Science in [UFAL](https://ic.ufal.br/)
 - 🌱 I'm currently learning Software Engineering and Infrastructure
 - 💬 Ask me about Design Patterns, Refactoring and REST API
