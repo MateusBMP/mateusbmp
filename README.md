@@ -1,4 +1,4 @@
-# Hi there, I'm [Mateus Pereira](https://mateusbmp.com.br/) 👋
+# Hi there, I'm Mateus Pereira 👋
 
 ### Nice to meet you!
 
