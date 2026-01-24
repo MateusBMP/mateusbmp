@@ -37,6 +37,10 @@ I'm Mateus Pereira, sofware developer from Brazil, always learning something new
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=T-Troll&repo=alienfx-tools&theme=tokyonight&show_icons=true&hide_border=true" />
 </a>
 
+<a href="https://github.com/EasyAccept/easyaccept-csharp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EasyAccept&repo=easyaccept-csharp&theme=tokyonight&show_icons=true&hide_border=true" />
+</a>
+
 ### :octocat: GitHub Statistics
 
 <a href="https://github.com/mateusbmp/">
